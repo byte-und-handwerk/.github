@@ -1,6 +1,6 @@
 # 🛠 byte & Handwerk
 
-> **Building operational software for food craft businesses.**
+> **Turning operational complexity into reliable digital routines for owner-managed bakeries and food manufacturers.**
 
 We develop software that helps owner-managed bakeries and food manufacturers turn operational complexity into reliable daily routines.
 
