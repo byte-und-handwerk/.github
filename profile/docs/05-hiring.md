@@ -1,28 +1,14 @@
 # Hiring
 
-> Wir stellen keine Lebensläufe ein.
->
-> Wir arbeiten mit Menschen.
+> Wir stellen keine Lebensläufe ein, wir arbeiten mit Menschen.
 
-Dieses Dokument beschreibt,
+Dieses Dokument beschreibt, nach welchen Grundsätzen byte & Handwerk Menschen auswählt, wie wir Eignung beurteilen und welche Form der Zusammenarbeit wir anstreben.
 
-nach welchen Grundsätzen byte & Handwerk Menschen auswählt,
+Hiring bedeutet für uns nicht, möglichst schnell eine offene Rolle zu besetzen.
 
-wie wir Eignung beurteilen
+Es bedeutet, eine tragfähige Zusammenarbeit vorzubereiten.
 
-und welche Form der Zusammenarbeit wir anstreben.
-
-Hiring bedeutet für uns nicht,
-
-möglichst schnell eine offene Rolle zu besetzen.
-
-Es bedeutet,
-
-eine tragfähige Zusammenarbeit vorzubereiten.
-
-Fachliche Kompetenz ist wichtig.
-
-Sie reicht jedoch nicht aus.
+Fachliche Kompetenz ist wichtig, sie reicht jedoch nicht aus.
 
 Ebenso entscheidend sind
 
@@ -37,17 +23,7 @@ Ebenso entscheidend sind
 
 # 1. Menschen vor Lebensläufen
 
-Ein Lebenslauf zeigt Stationen.
-
-Er erklärt jedoch nicht vollständig,
-
-wie ein Mensch denkt,
-
-arbeitet,
-
-lernt
-
-oder mit Verantwortung umgeht.
+Ein Lebenslauf zeigt Stationen. Er erklärt jedoch nicht vollständig, wie ein Mensch denkt, arbeitet, lern oder mit Verantwortung umgeht.
 
 Wir betrachten deshalb nicht nur
 
@@ -65,21 +41,9 @@ Wir interessieren uns ebenso dafür,
 - was gelernt wurde
 - und welche Verantwortung tatsächlich übernommen wurde.
 
-Ein ungewöhnlicher Werdegang ist kein Nachteil.
+Ein ungewöhnlicher Werdegang ist kein Nachteil. Er kann Ausdruck von Entwicklung, Mut und Anpassungsfähigkeit sein.
 
-Er kann Ausdruck von Entwicklung,
-
-Mut
-
-und Anpassungsfähigkeit sein.
-
-> Erfahrung ist nicht nur das,
->
-> was im Lebenslauf steht.
->
-> Erfahrung ist auch das,
->
-> was ein Mensch daraus gemacht hat.
+> Erfahrung ist nicht nur das, was im Lebenslauf steht. Erfahrung ist auch das, was ein Mensch daraus gemacht hat.
 
 ---
 
@@ -97,41 +61,17 @@ Wir ordnen Bewerber nicht vorschnell anhand von
 
 ein.
 
-Persönlichkeitsmodelle können später helfen,
+Persönlichkeitsmodelle können später helfen, Beobachtungen zu reflektieren. Sie entscheiden jedoch nicht darüber, ob jemand zu byte & Handwerk passt. Wir stellen keine Fragen, deren Zweck darin besteht, einen Menschen möglichst schnell einem Typ zuzuordnen.
 
-Beobachtungen zu reflektieren.
-
-Sie entscheiden jedoch nicht darüber,
-
-ob jemand zu byte & Handwerk passt.
-
-Wir stellen keine Fragen,
-
-deren Zweck darin besteht,
-
-einen Menschen möglichst schnell einem Typ zuzuordnen.
-
-Wir stellen offene Fragen,
-
-damit Menschen ihre Denkweise,
-
-Erfahrungen
-
-und Beweggründe in ihren eigenen Worten beschreiben können.
+Wir stellen offene Fragen, damit Menschen ihre Denkweise, Erfahrungen und Beweggründe in ihren eigenen Worten beschreiben können.
 
 ---
 
 # 3. Eignung ist mehr als Fachwissen
 
-Fachwissen ist notwendig,
+Fachwissen ist notwendig, wenn eine Rolle es erfordert. Es ist jedoch nur ein Teil der Eignung.
 
-wenn eine Rolle es erfordert.
-
-Es ist jedoch nur ein Teil der Eignung.
-
-Wir beurteilen zusätzlich,
-
-ob eine Person
+Wir beurteilen zusätzlich, ob eine Person
 
 - Verantwortung übernimmt,
 - Unsicherheit aushält,
@@ -144,35 +84,21 @@ ob eine Person
 - selbstständig denkt
 - und Entscheidungen nachvollziehbar begründet.
 
-Wir suchen keine Menschen,
+Wir suchen keine Menschen, die auf alles sofort eine Antwort haben.
 
-die auf alles sofort eine Antwort haben.
-
-Wir suchen Menschen,
-
-die erkennen,
-
-wann sie noch keine belastbare Antwort haben.
+Wir suchen Menschen, die erkennen, wann sie noch keine belastbare Antwort haben.
 
 ---
 
 # 4. Haltung vor Selbstdarstellung
 
-Ein Bewerbungsgespräch ist für uns keine Bühne,
+Ein Bewerbungsgespräch ist für uns keine Bühne, auf der eine perfekte Version der eigenen Person präsentiert werden muss.
 
-auf der eine perfekte Version der eigenen Person präsentiert werden muss.
+Wir erwarten keine makellose Geschichte. Wir erwarten Ehrlichkeit.
 
-Wir erwarten keine makellose Geschichte.
+Uns interessiert nicht, ob jemand jede berufliche Entscheidung als Erfolg verkauft.
 
-Wir erwarten Ehrlichkeit.
-
-Uns interessiert nicht,
-
-ob jemand jede berufliche Entscheidung als Erfolg verkauft.
-
-Uns interessiert,
-
-ob jemand die eigene Entwicklung reflektieren kann.
+Uns interessiert, ob jemand die eigene Entwicklung reflektieren kann.
 
 Das umfasst auch
 
@@ -183,67 +109,31 @@ Das umfasst auch
 - Wissenslücken
 - und Situationen, in denen ein Rückzug notwendig war.
 
-Nicht jede schwierige Erfahrung spricht gegen einen Menschen.
-
-Oft zeigt sich gerade darin,
-
-wie jemand Verantwortung,
-
-Grenzen
-
-und Lernen versteht.
+Nicht jede schwierige Erfahrung spricht gegen einen Menschen. Oft zeigt sich gerade darin, wie jemand Verantwortung, Grenzen und Lernen versteht.
 
 ---
 
 # 5. Potenzial vor perfekter Passform
 
-Wir erwarten nicht,
-
-dass eine Person am ersten Tag jede Anforderung vollständig erfüllt.
-
-Menschen können lernen.
-
-Kompetenzen können aufgebaut werden.
-
-Erfahrung kann entstehen.
-
-Deshalb unterscheiden wir zwischen
+Wir erwarten nicht, dass eine Person am ersten Tag jede Anforderung vollständig erfüllt. Menschen können lernen. Kompetenzen können aufgebaut werden. Erfahrung kann entstehen. Deshalb unterscheiden wir zwischen
 
 - zwingend erforderlicher Kompetenz,
 - sinnvoller Vorerfahrung
 - und erlernbaren Fähigkeiten.
 
-Eine Stelle darf nicht mit Anforderungen überladen werden,
+Eine Stelle darf nicht mit Anforderungen überladen werden, nur um Auswahlrisiken scheinbar zu reduzieren.
 
-nur um Auswahlrisiken scheinbar zu reduzieren.
+Wir prüfen stattdessen, welche Fähigkeiten tatsächlich von Beginn an notwendig sind und welche sich im Rahmen der Zusammenarbeit entwickeln können.
 
-Wir prüfen stattdessen,
-
-welche Fähigkeiten tatsächlich von Beginn an notwendig sind
-
-und welche sich im Rahmen der Zusammenarbeit entwickeln können.
-
-> Wir suchen nicht ausschließlich Menschen,
->
-> die bereits alles können.
->
-> Wir suchen Menschen,
->
-> denen wir zutrauen, das Richtige zu lernen.
+> Wir suchen nicht ausschließlich Menschen, die bereits alles können. Wir suchen Menschen, denen wir zutrauen, das Richtige zu lernen.
 
 ---
 
 # 6. Lernen vor Routine
 
-Routine kann wertvoll sein.
+Routine kann wertvoll sein. Sie kann jedoch auch dazu führen, dass bestehende Vorgehensweisen nicht mehr hinterfragt werden.
 
-Sie kann jedoch auch dazu führen,
-
-dass bestehende Vorgehensweisen nicht mehr hinterfragt werden.
-
-Wir achten deshalb darauf,
-
-wie Menschen mit neuen Situationen umgehen.
+Wir achten deshalb darauf, wie Menschen mit neuen Situationen umgehen.
 
 Uns interessiert,
 
@@ -253,31 +143,17 @@ Uns interessiert,
 - wie sie mit widersprüchlichen Informationen umgehen
 - und wann sie Unterstützung einfordern.
 
-Lernfähigkeit zeigt sich nicht darin,
+Lernfähigkeit zeigt sich nicht darin, alles allein lösen zu wollen.
 
-alles allein lösen zu wollen.
-
-Sie zeigt sich darin,
-
-den eigenen Kenntnisstand realistisch einzuschätzen
-
-und systematisch weiterzukommen.
+Sie zeigt sich darin, den eigenen Kenntnisstand realistisch einzuschätzen und systematisch weiterzukommen.
 
 ---
 
 # 7. Verantwortung vor Gehorsam
 
-Wir suchen keine Menschen,
+Wir suchen keine Menschen, die ausschließlich Anweisungen ausführen.
 
-die ausschließlich Anweisungen ausführen.
-
-Wir erwarten,
-
-dass Aufgaben verstanden,
-
-Risiken benannt
-
-und Entscheidungen hinterfragt werden.
+Wir erwarten, dass Aufgaben verstanden, Risiken benannt und Entscheidungen hinterfragt werden.
 
 Verantwortung bedeutet,
 
@@ -288,13 +164,7 @@ Verantwortung bedeutet,
 - Auswirkungen des eigenen Handelns zu berücksichtigen
 - und Hilfe zu suchen, bevor ein Problem unnötig eskaliert.
 
-Wer eine Anweisung für fachlich,
-
-rechtlich
-
-oder ethisch problematisch hält,
-
-soll das ansprechen.
+Wer eine Anweisung für fachlich, rechtlich oder ethisch problematisch hält, soll das ansprechen.
 
 Blinder Gehorsam ist kein Zeichen von Verlässlichkeit.
 
@@ -302,15 +172,9 @@ Blinder Gehorsam ist kein Zeichen von Verlässlichkeit.
 
 # 8. Widerspruch ist erwünscht
 
-Eine Person passt nicht deshalb zu byte & Handwerk,
+Eine Person passt nicht deshalb zu byte & Handwerk, weil sie häufig zustimmt.
 
-weil sie häufig zustimmt.
-
-Wir erwarten begründeten Widerspruch.
-
-Besonders dann,
-
-wenn
+Wir erwarten begründeten Widerspruch, besonders dann, wenn
 
 - Annahmen nicht belegt sind,
 - Risiken übersehen werden,
@@ -319,35 +183,15 @@ wenn
 - technische Qualität gefährdet ist
 - oder eine Entscheidung unseren Prinzipien widerspricht.
 
-Widerspruch muss sachlich,
+Widerspruch muss sachlich, konkret und nachvollziehbar sein. Er darf nicht als persönlicher Angriff formuliert werden. Gleichzeitig darf Kritik nicht als Illoyalität behandelt werden.
 
-konkret
-
-und nachvollziehbar sein.
-
-Er darf nicht als persönlicher Angriff formuliert werden.
-
-Gleichzeitig darf Kritik nicht als Illoyalität behandelt werden.
-
-> Gute Zusammenarbeit braucht Menschen,
->
-> die mitdenken.
->
-> Nicht Menschen,
->
-> die nur bestätigen.
+> Gute Zusammenarbeit braucht Menschen, die mitdenken. Nicht Menschen, die nur bestätigen.
 
 ---
 
 # 9. Selbstständigkeit braucht Klarheit
 
-Selbstständiges Arbeiten bedeutet nicht,
-
-Menschen mit unklaren Erwartungen allein zu lassen.
-
-Damit Verantwortung übernommen werden kann,
-
-müssen mindestens geklärt sein:
+Selbstständiges Arbeiten bedeutet nicht, Menschen mit unklaren Erwartungen allein zu lassen. Damit Verantwortung übernommen werden kann, müssen mindestens geklärt sein:
 
 - Ziel,
 - Umfang,
@@ -358,9 +202,7 @@ müssen mindestens geklärt sein:
 - Ansprechpartner
 - und Erfolgskriterien.
 
-Wir erwarten Eigeninitiative.
-
-Wir schaffen jedoch auch die Voraussetzungen dafür.
+Wir erwarten Eigeninitiative. Wir schaffen jedoch auch die Voraussetzungen dafür.
 
 Unklare Führung darf nicht nachträglich als mangelnde Selbstständigkeit der Mitarbeitenden ausgelegt werden.
 
@@ -368,15 +210,9 @@ Unklare Führung darf nicht nachträglich als mangelnde Selbstständigkeit der M
 
 # 10. Fehlerfähigkeit gehört zur Eignung
 
-Fehlerfreiheit ist kein realistisches Auswahlkriterium.
+Fehlerfreiheit ist kein realistisches Auswahlkriterium. Entscheidend ist, wie jemand mit Fehlern umgeht.
 
-Entscheidend ist,
-
-wie jemand mit Fehlern umgeht.
-
-Wir achten darauf,
-
-ob eine Person
+Wir achten darauf, ob eine Person
 
 - Fehler offen anspricht,
 - Verantwortung übernimmt,
@@ -392,17 +228,13 @@ Wir unterscheiden zwischen
 - bewusstem Verschweigen
 - und wiederholtem Ignorieren derselben Erkenntnis.
 
-Ein Fehler kann Entwicklung ermöglichen.
-
-Vertuschung zerstört Vertrauen.
+Ein Fehler kann Entwicklung ermöglichen, Vertuschung zerstört Vertrauen.
 
 ---
 
 # 11. Motivation wird nicht unterstellt
 
-Wir behaupten nicht,
-
-aus einzelnen Antworten zuverlässig die vollständige Motivation eines Menschen ableiten zu können.
+Wir behaupten nicht, aus einzelnen Antworten zuverlässig die vollständige Motivation eines Menschen ableiten zu können.
 
 Aussagen wie
 
@@ -422,19 +254,13 @@ Wir fragen stattdessen,
 - welche Entwicklung gewünscht ist
 - und welche Grenzen bestehen.
 
-Menschen dürfen unterschiedliche Motive haben.
-
-Entscheidend ist,
-
-ob Erwartungen und Rahmenbedingungen zusammenpassen.
+Menschen dürfen unterschiedliche Motive haben. Entscheidend ist, ob Erwartungen und Rahmenbedingungen zusammenpassen.
 
 ---
 
 # 12. Loyalität ist keine Selbstaufgabe
 
-Wir schätzen langfristige Zusammenarbeit.
-
-Loyalität bedeutet für uns jedoch nicht,
+Wir schätzen langfristige Zusammenarbeit. Loyalität bedeutet für uns jedoch nicht,
 
 - Kritik zu unterlassen,
 - Überlastung zu verschweigen,
@@ -450,9 +276,7 @@ Loyalität zeigt sich in
 - fairem Verhalten
 - und dem ernsthaften Interesse am gemeinsamen Ergebnis.
 
-Eine Person darf erkennen,
-
-dass eine Zusammenarbeit nicht mehr passt.
+Eine Person darf erkennen, dass eine Zusammenarbeit nicht mehr passt.
 
 Auch byte & Handwerk darf zu diesem Ergebnis kommen.
 
@@ -460,21 +284,9 @@ Auch byte & Handwerk darf zu diesem Ergebnis kommen.
 
 # 13. Belastbarkeit ist kein Freibrief für Überlastung
 
-Belastbarkeit bedeutet,
+Belastbarkeit bedeutet, mit anspruchsvollen Situationen umgehen zu können. Sie bedeutet nicht, dauerhaft zu viele Aufgaben, unklare Prioritäten oder schlechte Organisation auszugleichen.
 
-mit anspruchsvollen Situationen umgehen zu können.
-
-Sie bedeutet nicht,
-
-dauerhaft zu viele Aufgaben,
-
-unklare Prioritäten
-
-oder schlechte Organisation auszugleichen.
-
-Wir nutzen den Begriff nicht,
-
-um strukturelle Probleme auf einzelne Menschen abzuwälzen.
+Wir nutzen den Begriff nicht, um strukturelle Probleme auf einzelne Menschen abzuwälzen.
 
 Statt zu fragen
 
@@ -489,17 +301,13 @@ fragen wir auch
 - Ist Unterstützung verfügbar?
 - Wird Erholung respektiert?
 
-Gesunde Leistungsfähigkeit ist nachhaltiger
-
-als dauerhafte Selbstausbeutung.
+Gesunde Leistungsfähigkeit ist nachhaltiger als dauerhafte Selbstausbeutung.
 
 ---
 
 # 14. Unterschiedliche Lebenswege sind willkommen
 
-Kompetenz entsteht nicht ausschließlich
-
-durch geradlinige Karrierewege.
+Kompetenz entsteht nicht ausschließlich durch geradlinige Karrierewege.
 
 Menschen können wertvolle Fähigkeiten mitbringen aus
 
@@ -515,29 +323,15 @@ Menschen können wertvolle Fähigkeiten mitbringen aus
 - Berufswechseln
 - oder persönlichen Umbrüchen.
 
-Wir prüfen,
+Wir prüfen, welche Fähigkeiten tatsächlich vorhanden sind.
 
-welche Fähigkeiten tatsächlich vorhanden sind.
-
-Nicht,
-
-ob sie auf dem erwarteten Weg erworben wurden.
+Nicht, ob sie auf dem erwarteten Weg erworben wurden.
 
 ---
 
 # 15. Formale Abschlüsse werden angemessen gewichtet
 
-Formale Qualifikationen können notwendig sein,
-
-insbesondere bei rechtlich,
-
-fachlich
-
-oder sicherheitsrelevanten Aufgaben.
-
-Wo sie nicht zwingend erforderlich sind,
-
-dürfen sie praktische Eignung nicht automatisch überwiegen.
+Formale Qualifikationen können notwendig sein, insbesondere bei rechtlich, fachlich oder sicherheitsrelevanten Aufgaben. Wo sie nicht zwingend erforderlich sind, dürfen sie praktische Eignung nicht automatisch überwiegen.
 
 Wir unterscheiden zwischen
 
@@ -545,31 +339,17 @@ Wir unterscheiden zwischen
 - tatsächlicher Handlungskompetenz
 - und berufsrechtlicher Voraussetzung.
 
-Ein Zertifikat belegt eine absolvierte Qualifikation.
+Ein Zertifikat belegt eine absolvierte Qualifikation. Es ersetzt keine Prüfung, ob das Wissen angewendet werden kann.
 
-Es ersetzt keine Prüfung,
-
-ob das Wissen angewendet werden kann.
-
-Fehlende Zertifikate bedeuten umgekehrt nicht automatisch,
-
-dass keine Kompetenz vorhanden ist.
+Fehlende Zertifikate bedeuten umgekehrt nicht automatisch, dass keine Kompetenz vorhanden ist.
 
 ---
 
 # 16. Kulturpassung bedeutet keine Gleichförmigkeit
 
-Wir suchen Menschen,
+Wir suchen Menschen, die unsere Grundprinzipien mittragen. Wir suchen jedoch keine Kopien des Gründers und keine möglichst homogene Gruppe.
 
-die unsere Grundprinzipien mittragen.
-
-Wir suchen jedoch keine Kopien des Gründers
-
-und keine möglichst homogene Gruppe.
-
-Kulturpassung bedeutet für uns,
-
-dass jemand
+Kulturpassung bedeutet für uns, dass jemand
 
 - Menschen respektvoll begegnet,
 - offen kommuniziert,
@@ -587,9 +367,7 @@ Unterschiedliche
 - Perspektiven
 - und Kommunikationsweisen
 
-sind ausdrücklich erwünscht,
-
-solange eine verantwortungsvolle Zusammenarbeit möglich ist.
+sind ausdrücklich erwünscht, solange eine verantwortungsvolle Zusammenarbeit möglich ist.
 
 ---
 
@@ -605,9 +383,7 @@ Hohe fachliche Kompetenz entschuldigt nicht
 - Verantwortungsflucht
 - oder wiederholte Verstöße gegen Vereinbarungen.
 
-Ein Mensch kann fachlich außergewöhnlich sein
-
-und trotzdem nicht zu byte & Handwerk passen.
+Ein Mensch kann fachlich außergewöhnlich sein und trotzdem nicht zu byte & Handwerk passen.
 
 Leistung und Verhalten werden nicht gegeneinander verrechnet.
 
@@ -615,15 +391,7 @@ Leistung und Verhalten werden nicht gegeneinander verrechnet.
 
 # 18. Das Auswahlverfahren dient beiden Seiten
 
-Ein Hiring-Prozess ist keine einseitige Prüfung.
-
-Nicht nur byte & Handwerk entscheidet,
-
-ob eine Zusammenarbeit passt.
-
-Auch die andere Person benötigt ausreichend Informationen,
-
-um eine verantwortliche Entscheidung zu treffen.
+Ein Hiring-Prozess ist keine einseitige Prüfung. Nicht nur byte & Handwerk entscheidet, ob eine Zusammenarbeit passt. Auch die andere Person benötigt ausreichend Informationen, um eine verantwortliche Entscheidung zu treffen.
 
 Wir sprechen deshalb offen über
 
@@ -640,29 +408,15 @@ Wir sprechen deshalb offen über
 
 Wir verkaufen keine idealisierte Arbeitswelt.
 
-Eine Zusage,
-
-die auf falschen Erwartungen beruht,
-
-ist kein erfolgreiches Hiring.
+Eine Zusage, die auf falschen Erwartungen beruht, ist kein erfolgreiches Hiring.
 
 ---
 
 # 19. Bewerbungsfragen müssen Erkenntnis ermöglichen
 
-Wir stellen keine Fangfragen.
+Wir stellen keine Fangfragen. Wir verwenden keine Fragen, deren gewünschte Antwort offensichtlich ist.
 
-Wir verwenden keine Fragen,
-
-deren gewünschte Antwort offensichtlich ist.
-
-Wir versuchen nicht,
-
-durch suggestive Formulierungen Zustimmung zu erzeugen.
-
-Fragen sollen sichtbar machen,
-
-wie jemand
+Wir versuchen nicht, durch suggestive Formulierungen Zustimmung zu erzeugen. Fragen sollen sichtbar machen, wie jemand
 
 - Situationen wahrnimmt,
 - Entscheidungen vorbereitet,
@@ -683,23 +437,13 @@ Geeignete Fragen sind beispielsweise:
 - Unter welchen Bedingungen können Sie gute Arbeit leisten?
 - Wann würden Sie eine Aufgabe ablehnen?
 
-Wir bewerten nicht nur den Inhalt der Antwort.
-
-Wir achten auch darauf,
-
-wie nachvollziehbar,
-
-selbstkritisch
-
-und konkret sie begründet wird.
+Wir bewerten nicht nur den Inhalt der Antwort. Wir achten auch darauf, wie nachvollziehbar, selbstkritisch und konkret sie begründet wird.
 
 ---
 
 # 20. Arbeitsproben vor abstrakten Behauptungen
 
-Wo es sinnvoll ist,
-
-nutzen wir realistische Arbeitsproben.
+Wo es sinnvoll ist, nutzen wir realistische Arbeitsproben.
 
 Diese sollen
 
@@ -709,15 +453,7 @@ Diese sollen
 - keine kostenlose produktive Arbeit ersetzen
 - und nach transparenten Kriterien beurteilt werden.
 
-Eine Arbeitsprobe soll nicht prüfen,
-
-ob jemand unsere Gedanken errät.
-
-Sie soll zeigen,
-
-wie eine Person arbeitet.
-
-Uns interessieren dabei unter anderem:
+Eine Arbeitsprobe soll nicht prüfen, ob jemand unsere Gedanken errät. Sie soll zeigen, wie eine Person arbeitet. Uns interessieren dabei unter anderem:
 
 - Fragen vor Beginn,
 - Struktur,
@@ -728,27 +464,15 @@ Uns interessieren dabei unter anderem:
 - Ergebnis
 - und Reflexion.
 
-Nicht nur das Endprodukt zählt.
-
-Der Denkprozess ist ebenso relevant.
+Nicht nur das Endprodukt zählt, der Denkprozess ist ebenso relevant.
 
 ---
 
 # 21. Probearbeit darf nicht ausgenutzt werden
 
-Unbezahlte Probearbeit wird auf das notwendige Minimum begrenzt.
+Unbezahlte Probearbeit wird auf das notwendige Minimum begrenzt. Aufgaben mit echtem wirtschaftlichem Nutzen, die über eine angemessene Auswahlaufgabe hinausgehen, werden vergütet.
 
-Aufgaben mit echtem wirtschaftlichem Nutzen,
-
-die über eine angemessene Auswahlaufgabe hinausgehen,
-
-werden vergütet.
-
-Wir erwarten keine umfangreichen Konzepte,
-
-fertigen Produktbestandteile
-
-oder mehrere Arbeitstage kostenloser Leistung.
+Wir erwarten keine umfangreichen Konzepte, fertigen Produktbestandteile oder mehrere Arbeitstage kostenloser Leistung.
 
 Ein Auswahlverfahren darf nicht auf Kosten der Bewerber produktive Arbeit ersetzen.
 
@@ -776,17 +500,13 @@ Aussagen wie
 
 reichen nicht aus.
 
-Intuition kann einen Hinweis liefern.
-
-Sie ersetzt jedoch keine begründete Entscheidung.
+Intuition kann einen Hinweis liefern, sie ersetzt jedoch keine begründete Entscheidung.
 
 ---
 
 # 23. Mehrere Perspektiven reduzieren Fehlurteile
 
-Soweit organisatorisch sinnvoll,
-
-werden Auswahlentscheidungen nicht ausschließlich von einer Person getroffen.
+Soweit organisatorisch sinnvoll, werden Auswahlentscheidungen nicht ausschließlich von einer Person getroffen.
 
 Unterschiedliche Gesprächspartner können unterschiedliche Beobachtungen beitragen.
 
@@ -797,11 +517,7 @@ Dabei muss klar sein,
 - welche Beobachtungen relevant sind
 - und wer die finale Entscheidung trägt.
 
-Mehr Beteiligte garantieren keine bessere Entscheidung.
-
-Sie können jedoch blinde Flecken sichtbar machen,
-
-wenn ihre Einschätzungen strukturiert zusammengeführt werden.
+Mehr Beteiligte garantieren keine bessere Entscheidung. Sie können jedoch blinde Flecken sichtbar machen, wenn ihre Einschätzungen strukturiert zusammengeführt werden.
 
 ---
 
@@ -809,23 +525,9 @@ wenn ihre Einschätzungen strukturiert zusammengeführt werden.
 
 Informationen aus Bewerbungen und Gesprächen werden vertraulich behandelt.
 
-Persönliche Erfahrungen,
+Persönliche Erfahrungen, Fehler, Konflikte oder sensible Lebensumstände dürfen nicht außerhalb des notwendigen Auswahlprozesses weitergegeben werden. Wir erheben nur Informationen, die für die Zusammenarbeit tatsächlich relevant sind.
 
-Fehler,
-
-Konflikte
-
-oder sensible Lebensumstände
-
-dürfen nicht außerhalb des notwendigen Auswahlprozesses weitergegeben werden.
-
-Wir erheben nur Informationen,
-
-die für die Zusammenarbeit tatsächlich relevant sind.
-
-Neugier ist kein legitimer Grund,
-
-private Informationen abzufragen.
+Neugier ist kein legitimer Grund, private Informationen abzufragen.
 
 ---
 
@@ -833,9 +535,7 @@ private Informationen abzufragen.
 
 Eine Absage ist keine Bewertung des gesamten Menschen.
 
-Sie bedeutet lediglich,
-
-dass unter den aktuellen Bedingungen keine ausreichende Passung festgestellt wurde.
+Sie bedeutet lediglich, dass unter den aktuellen Bedingungen keine ausreichende Passung festgestellt wurde.
 
 Wir formulieren Absagen
 
@@ -844,21 +544,15 @@ Wir formulieren Absagen
 - zeitnah
 - und ohne unnötige Abwertung.
 
-Soweit möglich und sinnvoll,
+Soweit möglich und sinnvoll, geben wir nachvollziehbares Feedback.
 
-geben wir nachvollziehbares Feedback.
-
-Wir vermeiden scheinobjektive Begründungen,
-
-wenn die Entscheidung tatsächlich auf anderen Faktoren beruhte.
+Wir vermeiden scheinobjektive Begründungen, wenn die Entscheidung tatsächlich auf anderen Faktoren beruhte.
 
 ---
 
 # 26. Entwicklung beginnt mit der Einstellung
 
-Hiring endet nicht mit der Vertragsunterzeichnung.
-
-Eine gute Auswahl kann durch schlechte Einarbeitung scheitern.
+Hiring endet nicht mit der Vertragsunterzeichnung. Eine gute Auswahl kann durch schlechte Einarbeitung scheitern.
 
 Deshalb schaffen wir einen klaren Einstieg.
 
@@ -873,21 +567,15 @@ Dazu gehören abhängig von der Rolle:
 - Raum für Fragen
 - und nachvollziehbare Erwartungen.
 
-Niemand soll daran scheitern,
-
-dass notwendiges Wissen als selbstverständlich vorausgesetzt wurde.
+Niemand soll daran scheitern, dass notwendiges Wissen als selbstverständlich vorausgesetzt wurde.
 
 ---
 
 # 27. Probezeit ist eine gemeinsame Lernphase
 
-Die Probezeit dient nicht dazu,
+Die Probezeit dient nicht dazu, Menschen dauerhaft unter Beobachtung zu halten.
 
-Menschen dauerhaft unter Beobachtung zu halten.
-
-Sie dient beiden Seiten dazu,
-
-die tatsächliche Zusammenarbeit zu prüfen.
+Sie dient beiden Seiten dazu, die tatsächliche Zusammenarbeit zu prüfen.
 
 Wir betrachten dabei:
 
@@ -901,17 +589,13 @@ Wir betrachten dabei:
 
 Rückmeldungen erfolgen frühzeitig.
 
-Probleme werden nicht bis zum Ende der Probezeit gesammelt,
-
-um dann überraschend gegen eine Person verwendet zu werden.
+Probleme werden nicht bis zum Ende der Probezeit gesammelt, um dann überraschend gegen eine Person verwendet zu werden.
 
 ---
 
 # 28. Leistung braucht nachvollziehbare Erwartungen
 
-Menschen können nur dann fair beurteilt werden,
-
-wenn Erwartungen erkennbar sind.
+Menschen können nur dann fair beurteilt werden, wenn Erwartungen erkennbar sind.
 
 Wir definieren deshalb,
 
@@ -928,17 +612,7 @@ Leistung wird nicht anhand unausgesprochener Erwartungen bewertet.
 
 # 29. Entwicklung ist gemeinsame Verantwortung
 
-byte & Handwerk trägt Verantwortung dafür,
-
-Lernen zu ermöglichen.
-
-Mitarbeitende tragen Verantwortung dafür,
-
-Lernmöglichkeiten zu nutzen
-
-und den eigenen Entwicklungsbedarf sichtbar zu machen.
-
-Entwicklung kann erfolgen durch
+byte & Handwerk trägt Verantwortung dafür, Lernen zu ermöglichen. Mitarbeitende tragen Verantwortung dafür, Lernmöglichkeiten zu nutzen und den eigenen Entwicklungsbedarf sichtbar zu machen. Entwicklung kann erfolgen durch
 
 - praktische Aufgaben,
 - Feedback,
@@ -949,15 +623,7 @@ Entwicklung kann erfolgen durch
 - fachlichen Austausch
 - und zunehmende Verantwortung.
 
-Nicht jede Entwicklung führt automatisch zu einer Führungsrolle.
-
-Fachliche Vertiefung,
-
-größere Selbstständigkeit
-
-oder Spezialisierung
-
-sind ebenso wertvolle Entwicklungswege.
+Nicht jede Entwicklung führt automatisch zu einer Führungsrolle. Fachliche Vertiefung, größere Selbstständigkeit oder Spezialisierung sind ebenso wertvolle Entwicklungswege.
 
 ---
 
@@ -975,25 +641,13 @@ Führung erfordert zusätzlich,
 - Menschen zu entwickeln
 - und Macht verantwortungsvoll einzusetzen.
 
-Führungsverantwortung wird nicht als Belohnung vergeben.
-
-Sie wird übernommen,
-
-wenn Eignung,
-
-Interesse
-
-und organisatorischer Bedarf zusammenpassen.
+Führungsverantwortung wird nicht als Belohnung vergeben. Sie wird übernommen, wenn Eignung, Interesse und organisatorischer Bedarf zusammenpassen.
 
 ---
 
 # 31. Trennung kann verantwortungsvoll sein
 
-Nicht jede Zusammenarbeit bleibt dauerhaft tragfähig.
-
-Eine Trennung kann notwendig werden,
-
-wenn
+Nicht jede Zusammenarbeit bleibt dauerhaft tragfähig. Eine Trennung kann notwendig werden, wenn
 
 - grundlegende Erwartungen dauerhaft nicht erfüllt werden,
 - Vertrauen erheblich beschädigt ist,
@@ -1001,23 +655,11 @@ wenn
 - wesentliche Prinzipien wiederholt verletzt werden
 - oder sich Rolle und Organisation auseinanderentwickelt haben.
 
-Eine Trennung darf nicht vorschnell erfolgen.
+Eine Trennung darf nicht vorschnell erfolgen. Sie darf jedoch auch nicht aus Konfliktvermeidung unnötig hinausgezögert werden.
 
-Sie darf jedoch auch nicht aus Konfliktvermeidung unnötig hinausgezögert werden.
+Wir sprechen Probleme frühzeitig an, klären Erwartungen und prüfen realistische Entwicklungsmöglichkeiten.
 
-Wir sprechen Probleme frühzeitig an,
-
-klären Erwartungen
-
-und prüfen realistische Entwicklungsmöglichkeiten.
-
-Wenn eine Beendigung notwendig ist,
-
-erfolgt sie klar,
-
-fair
-
-und respektvoll.
+Wenn eine Beendigung notwendig ist, erfolgt sie klar, fair und respektvoll.
 
 ---
 
@@ -1069,9 +711,7 @@ Wir vermeiden
 
 ## 3. Vorauswahl
 
-Die Vorauswahl erfolgt anhand der vorher festgelegten Anforderungen.
-
-Wir suchen Hinweise auf
+Die Vorauswahl erfolgt anhand der vorher festgelegten Anforderungen. Wir suchen Hinweise auf
 
 - relevante Erfahrung,
 - übertragbare Fähigkeiten,
@@ -1096,19 +736,13 @@ Wir klären
 - Rahmenbedingungen
 - und offene Fragen.
 
-Es ist kein Verkaufsgespräch.
-
-Beide Seiten sollen danach besser beurteilen können,
-
-ob eine weitere Prüfung sinnvoll ist.
+Es ist kein Verkaufsgespräch. Beide Seiten sollen danach besser beurteilen können, ob eine weitere Prüfung sinnvoll ist.
 
 ---
 
 ## 5. Vertiefung
 
-In der Vertiefung betrachten wir konkrete Situationen.
-
-Je nach Rolle kann dies erfolgen durch
+In der Vertiefung betrachten wir konkrete Situationen. Je nach Rolle kann dies erfolgen durch
 
 - strukturierte Fallfragen,
 - Arbeitsproben,
@@ -1117,9 +751,7 @@ Je nach Rolle kann dies erfolgen durch
 - gemeinsame Problembearbeitung
 - oder Gespräche mit zukünftigen Beteiligten.
 
-Die Aufgaben orientieren sich an realer Arbeit.
-
-Nicht an künstlichen Rätseln.
+Die Aufgaben orientieren sich an realer Arbeit, nicht an künstlichen Rätseln.
 
 ---
 
@@ -1133,9 +765,7 @@ Die Beteiligten trennen
 - offene Fragen
 - und Empfehlungen.
 
-Die Entscheidung erfolgt anhand der Rolle und ihrer Kriterien.
-
-Nicht anhand der größten Ähnlichkeit zu bestehenden Mitarbeitenden.
+Die Entscheidung erfolgt anhand der Rolle und ihrer Kriterien. Nicht anhand der größten Ähnlichkeit zu bestehenden Mitarbeitenden.
 
 ---
 
@@ -1159,11 +789,7 @@ Absagen erfolgen respektvoll und zeitnah.
 
 ## 8. Onboarding
 
-Nach einer Zusage beginnt die strukturierte Einarbeitung.
-
-Die Qualität des Hiring-Prozesses zeigt sich spätestens darin,
-
-ob eine neue Person tatsächlich arbeitsfähig wird.
+Nach einer Zusage beginnt die strukturierte Einarbeitung. Die Qualität des Hiring-Prozesses zeigt sich spätestens darin, ob eine neue Person tatsächlich arbeitsfähig wird.
 
 ---
 
@@ -1261,29 +887,9 @@ Während der ersten Monate fragen wir:
 
 # Abschluss
 
-Wir suchen keine perfekten Menschen.
+Wir suchen keine perfekten Menschen. Wir suchen Menschen, die verantwortungsvoll arbeiten, offen lernen, klar kommunizieren und bereit sind, gemeinsam tragfähige Lösungen zu entwickeln. Wir bewerten keine Person ausschließlich nach ihrem bisherigen Weg.
 
-Wir suchen Menschen,
-
-die verantwortungsvoll arbeiten,
-
-offen lernen,
-
-klar kommunizieren
-
-und bereit sind,
-
-gemeinsam tragfähige Lösungen zu entwickeln.
-
-Wir bewerten keine Person ausschließlich nach ihrem bisherigen Weg.
-
-Wir betrachten,
-
-was sie gelernt hat,
-
-wie sie heute handelt
-
-und welches Potenzial unter den richtigen Bedingungen entstehen kann.
+Wir betrachten, was sie gelernt hat, wie sie heute handelt und welches Potenzial unter den richtigen Bedingungen entstehen kann.
 
 > Gute Auswahl fragt nicht nur:
 >
@@ -1291,6 +897,4 @@ und welches Potenzial unter den richtigen Bedingungen entstehen kann.
 >
 > Sie fragt auch:
 >
-> „Können wir gemeinsam die Bedingungen schaffen,
->
-> unter denen gute Arbeit möglich wird?“
+> „Können wir gemeinsam die Bedingungen schaffen, unter denen gute Arbeit möglich wird?“
