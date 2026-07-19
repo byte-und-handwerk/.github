@@ -1,203 +1,201 @@
 # Methodology
 
-> Unsere Methode beschreibt nicht, wie Software entsteht, sie beschreibt, wie aus Unsicherheit Klarheit wird.
+> Gute Lösungen entstehen nicht durch schnelle Antworten. Sie entstehen durch einen systematischen Erkenntnisprozess.
+
+Die Methodik von byte & Handwerk beschreibt, wie wir unter Unsicherheit zu belastbaren Entscheidungen gelangen.
+
+Sie ersetzt keine Erfahrung. Sie ersetzt keine Fachkompetenz. Sie schafft einen Rahmen, in dem beides sinnvoll eingesetzt werden kann.
 
 ---
 
-# Einleitung
+# Grundannahmen
 
-Jedes Projekt beginnt mit einer Vermutung.
+Unsere Methodik basiert auf fünf Überzeugungen.
 
-Ein Unternehmen glaubt, eine App zu benötigen.
+- Menschen sind komplexer als jedes Modell.
+- Probleme sind selten identisch mit ihren Symptomen.
+- Gute Fragen erzeugen bessere Erkenntnisse als schnelle Antworten.
+- Jede Entscheidung beruht auf unvollständigem Wissen.
+- Lernen endet nicht mit der Umsetzung.
 
-Ein Team wünscht sich eine Automatisierung.
-
-Ein Gründer hat eine Produktidee.
-
-Unsere Aufgabe besteht nicht darin, diese Vermutung sofort umzusetzen.
-
-Unsere Aufgabe besteht darin, gemeinsam herauszufinden, ob sie überhaupt die richtige Antwort auf das eigentliche Problem ist.
-
-Deshalb beginnt jedes Projekt mit Verständnis.
-
-Nicht mit Technologie.
+Diese Annahmen bestimmen jeden Schritt unserer Arbeit.
 
 ---
 
-# Phase 1 – Verstehen
+# Phase 1 – Beobachten
 
-Wir beginnen jedes Projekt mit Fragen.
+Jedes Projekt beginnt mit einer Beobachtung. Nicht mit einer Lösung. Nicht mit einer Technologie. Nicht mit einem Angebot.
 
-Nicht, um Antworten zu bestätigen.
+Eine Aussage wie
 
-Sondern, um den Alltag der Menschen zu verstehen.
+> „Wir brauchen eine App.“
 
-Wir interessieren uns für:
+ist für uns zunächst keine Anforderung.
 
-- Arbeitsabläufe
-- Herausforderungen
-- Gewohnheiten
-- Entscheidungen
-- Kommunikation
-- Reibungspunkte
+Sie ist eine Beobachtung. Wir sammeln Informationen, ohne sie vorschnell zu bewerten.
 
-Menschen beschreiben häufig ihre vermutete Lösung.
+Unser Ziel ist nicht, möglichst schnell eine Antwort zu geben.
 
-Unsere Aufgabe ist es, den tatsächlichen Bedarf zu erkennen.
+Unser Ziel ist es, die Situation möglichst unverfälscht zu verstehen.
 
----
+Dabei unterscheiden wir konsequent zwischen
 
-# Phase 2 – Strukturieren
-
-Gespräche erzeugen Informationen.
-
-Unsere Aufgabe ist es, daraus Muster zu erkennen.
-
-Wir unterscheiden bewusst zwischen
-
-- Beobachtungen
-- Meinungen
-- Annahmen
-- Bedürfnissen
-- tatsächlichen Problemen
-
-Erst wenn Zusammenhänge sichtbar werden, beginnen wir über mögliche Lösungen nachzudenken.
+- Beobachtungen,
+- Vermutungen,
+- Bewertungen
+- und Schlussfolgerungen.
 
 ---
 
-# Phase 3 – Hypothesen entwickeln
+# Phase 2 – Verstehen
 
-Jede Lösung beginnt als Hypothese.
+Erst nachdem genügend Informationen vorliegen, beginnen wir, Zusammenhänge zu erkennen.
 
-Wir fragen uns:
+Wir untersuchen,
 
-- Welche Ursache vermuten wir?
-- Welche Lösung könnte helfen?
-- Welche Alternativen gibt es?
-- Welche Annahmen müssen überprüft werden?
+- warum ein Problem besteht,
+- wer davon betroffen ist,
+- welche Folgen daraus entstehen,
+- welche bisherigen Lösungsversuche unternommen wurden
+- und welche Annahmen möglicherweise falsch sind.
 
-Wir vermeiden es, uns früh auf eine einzige Lösung festzulegen.
+Dabei interessieren uns nicht nur Fakten. Ebenso wichtig sind Sprache, Arbeitsweise, Prioritäten, Erfahrungen und Entscheidungswege.
+
+Wir versuchen Menschen nicht einzuordnen. Wir versuchen sie zu verstehen.
 
 ---
 
-# Phase 4 – Validieren
+# Phase 3 – Erkenntnisse entwickeln
 
-Hypothesen sind keine Entscheidungen.
+Aus Beobachtungen entstehen Muster. Aus Mustern entstehen Hypothesen. Hypothesen sind keine Wahrheiten. Sie sind überprüfbare Annahmen.
 
-Wir prüfen sie.
+Deshalb formulieren wir sie bewusst so, dass sie widerlegt werden können.
 
-Je nach Projekt kann das geschehen durch
+Eine Hypothese, die sich nicht überprüfen lässt, hilft uns nicht weiter.
 
-- Gespräche
-- Beobachtungen
-- Prototypen
-- Pilotprojekte
-- Tests
-- Feedback
+Neue Informationen dürfen bestehende Hypothesen jederzeit verändern oder ersetzen.
 
-Unser Ziel ist nicht, Recht zu behalten, unser Ziel ist es, Erkenntnisse zu gewinnen.
+Erkenntnis ist wichtiger als Bestätigung.
+
+---
+
+# Phase 4 – Optionen entwickeln
+
+Erst jetzt sprechen wir über mögliche Lösungen. Dabei beginnen wir bewusst nicht mit Software.
+
+Wir fragen zuerst, welche Veränderung den größten Nutzen mit der geringsten unnötigen Komplexität erzeugt.
+
+Mögliche Ergebnisse können sein:
+
+- eine organisatorische Veränderung,
+- eine neue Verantwortlichkeit,
+- eine Checkliste,
+- ein vereinfachter Prozess,
+- eine Schulung,
+- eine digitale Unterstützung,
+- oder eine individuelle Softwarelösung.
+
+Technologie ist eine Möglichkeit. Nicht die Voraussetzung.
 
 ---
 
 # Phase 5 – Entscheiden
 
-Erst jetzt entscheiden wir gemeinsam.
+Eine Entscheidung basiert niemals ausschließlich auf einer Idee.
 
-Nicht jede Fragestellung benötigt Software.
+Sie basiert auf
 
-Nicht jedes Problem benötigt Digitalisierung.
+- den gesammelten Beobachtungen,
+- den entwickelten Erkenntnissen,
+- den verfügbaren Optionen
+- und ihren jeweiligen Auswirkungen.
 
-Die beste Lösung ist diejenige, die
+Wir bevorzugen Lösungen, die nachvollziehbar, wartbar, verständlich und langfristig tragfähig sind.
 
-- praktikabel,
-- nachvollziehbar,
-- wirtschaftlich
-- und nachhaltig ist.
-
-Dabei spielt es keine Rolle, ob sie analog oder digital umgesetzt wird.
+Nicht die technisch beeindruckendste Lösung gewinnt, sondern die sinnvollste.
 
 ---
 
 # Phase 6 – Umsetzen
 
-Erst nachdem eine Entscheidung getroffen wurde, beginnt die Umsetzung.
+Jede Umsetzung ist gleichzeitig ein Lernprozess.
 
-Wir entwickeln nur das, was tatsächlich benötigt wird.
+Wir betrachten Lösungen niemals als endgültig. Neue Erkenntnisse können jederzeit Anpassungen erforderlich machen.
 
-Wir bevorzugen kleine, verständliche Schritte gegenüber großen Komplettlösungen.
-
-Unser Ziel ist ein möglichst früher praktischer Nutzen.
+Deshalb entwickeln wir iterativ. Nicht, weil Iteration modern ist, sondern, weil Realität sich verändert.
 
 ---
 
-# Phase 7 – Lernen
+# Phase 7 – Reflektieren
 
-Mit der Umsetzung endet unsere Arbeit nicht.
+Nach jeder Umsetzung beginnt die wichtigste Phase.
 
-Jede Lösung wird im Alltag überprüft.
+Wir überprüfen,
 
-Neue Erkenntnisse fließen zurück in die Weiterentwicklung.
+- welche Annahmen richtig waren,
+- welche sich als falsch erwiesen haben,
+- welche neuen Erkenntnisse entstanden sind,
+- welche Entscheidungen sich bewährt haben
+- und was wir künftig anders machen würden.
 
-Deshalb verstehen wir jedes Projekt als Lernprozess.
-
-Nicht als einmalige Lieferung.
-
----
-
-# Die Methode in Kurzform
-
-```text
-Verstehen
-
-↓
-
-Strukturieren
-
-↓
-
-Hypothesen entwickeln
-
-↓
-
-Validieren
-
-↓
-
-Entscheiden
-
-↓
-
-Umsetzen
-
-↓
-
-Lernen
-```
+Jedes Projekt verbessert dadurch nicht nur das Ergebnis. Es verbessert auch unsere Methodik.
 
 ---
 
-# Unsere Rolle
+# Unser Umgang mit Modellen
 
-Wir verstehen uns nicht als Verkäufer.
+Modelle helfen, Beobachtungen zu strukturieren. Sie ersetzen jedoch niemals den Menschen.
 
-Wir verstehen uns nicht als reine Softwareentwickler.
+Persönlichkeitsmodelle, Prozessmodelle, Organisationsmodelle oder andere Frameworks sind Werkzeuge.
 
-Wir verstehen uns als Begleiter eines gemeinsamen Erkenntnisprozesses.
+Sie dürfen niemals bestimmen, welche Fragen wir stellen oder welche Antworten wir erwarten.
 
-Unsere Verantwortung besteht darin, Fragen zu stellen, Zusammenhänge sichtbar zu machen, Entscheidungen nachvollziehbar zu begleiten und die einfachste wirksame Lösung zu finden.
+Unsere Gespräche beginnen immer offen. Modelle können später helfen, das Erkannte besser einzuordnen, nicht umgekehrt.
 
 ---
 
-# Erfolg bedeutet für uns
+# Unser Umgang mit Unsicherheit
 
-Ein Projekt ist erfolgreich, wenn das eigentliche Problem gelöst wurde.
+Wir gehen nicht davon aus, von Beginn an alles zu wissen.
 
-Nicht, wenn möglichst viel Software entwickelt wurde.
+Unsicherheit ist kein Fehler. Sie ist der natürliche Ausgangspunkt jeder komplexen Entscheidung.
 
-Nicht, wenn möglichst viele Funktionen entstanden sind.
+Deshalb versuchen wir nicht, Unsicherheit zu verstecken. Wir machen sie sichtbar.
 
-Nicht, wenn möglichst moderne Technologien eingesetzt wurden.
+Denn nur sichtbare Unsicherheit kann gemeinsam reduziert werden.
 
-Sondern, wenn Menschen ihre Arbeit einfacher, sicherer oder effizienter erledigen können.
+---
 
-Das ist der Maßstab unserer Methode.
+# Der Erkenntniskreislauf
+
+Unsere Methodik folgt keinem linearen Projektplan. Sie folgt einem Kreislauf.
+
+> Beobachten
+>
+> Verstehen
+>
+> Erkenntnisse entwickeln
+>
+> Optionen entwickeln
+>
+> Entscheiden
+>
+> Umsetzen
+>
+> Reflektieren
+>
+> Beobachten
+
+Jede neue Erkenntnis kann dazu führen, frühere Annahmen zu überdenken.
+
+Lernen ist kein letzter Schritt. Lernen ist Bestandteil jedes einzelnen Schrittes.
+
+---
+
+# Abschluss
+
+Unsere Methodik verfolgt kein Ziel, möglichst schnell Lösungen zu produzieren. Sie verfolgt das Ziel, die richtigen Probleme zu lösen.
+
+Denn wir sind überzeugt:
+
+> Gute Lösungen sind selten das Ergebnis außergewöhnlicher Technologie. Sie sind meist das Ergebnis außergewöhnlichen Verständnisses.
