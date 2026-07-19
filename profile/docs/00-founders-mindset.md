@@ -373,6 +373,73 @@ Sie sollen nicht:
 - künstlichen Handlungsdruck erzeugen,
 - oder dem Gegenüber das Gefühl geben, selbst entschieden zu haben, obwohl das Ergebnis bereits gelenkt wurde.
 
+## 10.1 Vom Einordnen zum Verstehen
+
+Zu Beginn suchte Dominik nach Möglichkeiten, Menschen besser zu verstehen.
+
+Er beschäftigte sich unter anderem mit Persönlichkeitsmodellen wie 16Personalities und anderen Typisierungssystemen.
+
+Die ursprüngliche Annahme war:
+
+> Wenn ich den Persönlichkeitstyp meines Gegenübers kenne, kann ich ihn besser beraten.
+
+Mit zunehmender Erfahrung erkannte er jedoch eine grundlegende Schwäche dieses Ansatzes.
+
+Um Menschen einer Kategorie zuordnen zu können, begann er unbewusst Fragen so zu formulieren, dass sie eine Einordnung ermöglichten.
+
+Die Fragen dienten damit nicht mehr ausschließlich dem Verstehen, sie dienten bereits der Bestätigung einer Vermutung.
+
+Heute bewertet er diesen Ansatz kritisch.
+
+Nicht, weil Persönlichkeitsmodelle grundsätzlich ungeeignet wären, sondern weil ihre Anwendung den Blick auf den Menschen ungewollt verändern kann.
+
+Wer zuerst nach einer Kategorie sucht, läuft Gefahr, Antworten vor allem danach zu bewerten, ob sie zur erwarteten Einordnung passen.
+
+Dadurch entsteht ein Bestätigungsfehler.
+
+Die Kategorie beeinflusst die Wahrnehmung.
+
+Nicht die tatsächliche Person.
+
+Heute folgt Dominik deshalb einem anderen Grundsatz:
+
+> Menschen müssen nicht zuerst eingeordnet werden, um verstanden zu werden.
+
+Wenn Fragen offen, wertfrei und ohne versteckte Zielrichtung gestellt werden, zeigen Menschen häufig von selbst,
+
+- wie sie denken,
+- welche Sprache sie verwenden,
+- worauf sie ihren Fokus legen,
+- wie sie Entscheidungen treffen,
+- welche Werte ihnen wichtig sind,
+- und welche Form der Zusammenarbeit sie bevorzugen.
+
+Diese Erkenntnisse entstehen als Nebenprodukt eines ehrlichen Gesprächs, nicht als Ziel des Gesprächs.
+
+Persönlichkeitsmodelle können anschließend hilfreich sein, um Beobachtungen zu strukturieren oder unterschiedliche Kommunikationsmuster besser zu verstehen.
+
+Sie dürfen jedoch niemals bestimmen,
+
+- welche Antworten erwartet werden,
+- welche Fragen gestellt werden,
+- oder wie ein Mensch vorschnell eingeordnet wird.
+
+Für byte & Handwerk bedeutet das:
+
+- Wir beginnen nicht mit Kategorien.
+- Wir beginnen nicht mit Persönlichkeitstests.
+- Wir beginnen nicht mit Typologien.
+- Wir beginnen mit offenen Fragen.
+- Modelle dienen der Reflexion, nicht der Gesprächsführung.
+
+Deshalb gilt:
+
+> Gute Fragen erzeugen keine Kategorien.
+
+> Gute Fragen ermöglichen Erkenntnisse.
+
+> Erst wenn ein Mensch verstanden wurde, kann geprüft werden, ob ein Modell hilft, das Beobachtete besser einzuordnen.
+
 ---
 
 # 11. Die Suche nach einer Arbeit mit persönlicher Bedeutung
