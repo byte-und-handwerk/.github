@@ -353,8 +353,8 @@ Gleichzeitig erlebte er, wie suggestive Fragen genutzt werden, um ein gewünscht
 
 Aus dieser Spannung entstand ein Kernprinzip von byte & Handwerk:
 
-> Wir fragen nicht, um Zustimmung zu produzieren.
->
+> Wir fragen nicht, um Zustimmung zu erzeugen.
+> Wir fragen nicht, um Menschen einer Kategorie zuzuordnen.
 > Wir fragen, um Zusammenhänge zu verstehen.
 
 Gute Fragen sollen deshalb:
