@@ -1,55 +1,97 @@
 # 🛠 byte & Handwerk
 
-> **Turning operational complexity into reliable digital routines for owner-managed bakeries and food manufacturers.**
+> **Understanding problems before building software.**
 
-We develop software that helps owner-managed bakeries and food manufacturers turn operational complexity into reliable daily routines.
+byte & Handwerk develops digital products and custom software by starting with the real work—not with predefined solutions.
 
-Our focus is not on dashboards or feature-heavy applications, but on software that supports real work on the shop floor—from sales counter to production.
+We work alongside the people who use the software, understand how work actually happens, identify operational friction, and build solutions that fit everyday practice.
 
----
+Software is never the starting point.
 
-## Engineering Principles
-
-### ⚡ Friction-Zero
-
-Software should require as little attention as possible.
-
-If a workflow slows down the sales counter, it needs to be redesigned.
-
-### 🔄 Execution Loop
-
-Data alone doesn't improve a business.
-
-Every insight should lead to a concrete action:
-
-**Data → Decision → Work Order → Execution → Feedback**
-
-### 📊 Fuzzy Data Resilience
-
-Real businesses rarely produce perfect data.
-
-Our systems are designed to work with incomplete, approximate and operational data while still producing reliable trends.
-
-### 🛠 Boring Tech, High Impact
-
-Reliable processes outperform impressive features.
-
-We prioritize stability, maintainability and operational value over technical novelty.
+It is the result of understanding.
 
 ---
 
-## Product Areas
+# Our Approach
 
-| Area | Purpose |
-|------|---------|
-| 📸 Capture | Lightweight data collection in daily operations |
-| ⚙️ Core Engine | Business logic, pattern detection and data quality |
-| 📈 Management Hub | Decision support and operational routines |
-| 🖨 Execution Worker | Turning decisions into actionable work orders |
+Every project follows the same principle:
+
+**Observe → Understand → Validate → Build → Learn**
+
+Before writing code, we aim to understand
+
+- the real problem,
+- the people affected,
+- the operational context,
+- existing workflows,
+- assumptions,
+- and the smallest meaningful improvement.
+
+Not every problem requires custom software.
+
+Sometimes improving a process, integrating existing systems, or simplifying workflows creates more value than building something new.
 
 ---
 
-## Technology
+# Core Principles
+
+### 👥 People before models
+
+People are never reduced to categories, roles or personality models.
+
+Understanding comes before interpretation.
+
+### ❓ Questions before answers
+
+We prefer open questions over predefined solutions.
+
+Good software starts with good understanding.
+
+### 🔍 Causes before symptoms
+
+We distinguish between observable problems and their underlying causes.
+
+Treating symptoms rarely creates lasting improvement.
+
+### ⚡ Friction before features
+
+The best software removes unnecessary effort.
+
+Every interaction should support real work instead of interrupting it.
+
+### 🔄 Learn continuously
+
+Every prototype, pilot and product is an opportunity to learn.
+
+Assumptions remain visible until they are validated.
+
+---
+
+# What We Do
+
+Our services include:
+
+- Digital product discovery
+- Process and workflow analysis
+- Technical feasibility studies
+- Prototyping
+- MVP development
+- Native iOS development
+- Native Android development
+- Custom software
+- Product development
+- White-label solutions
+- Software maintenance and further development
+
+---
+
+# Technology
+
+Technology supports the solution.
+
+It never defines it.
+
+Current technologies include:
 
 - SwiftUI
 - Kotlin & Jetpack Compose
@@ -62,21 +104,22 @@ We prioritize stability, maintainability and operational value over technical no
 
 ---
 
-## What you'll find here
+# Open Repositories
 
-This organization contains selected public repositories for
+This organization contains selected public repositories covering
 
-- architecture examples
-- product concepts
-- technical experiments
-- documentation
+- architectural concepts
+- product documentation
+- development standards
 - reusable components
+- technical experiments
+- showcase projects
 
-Production code and customer-specific projects remain private.
+Customer projects and production systems remain private.
 
 ---
 
-## Contact
+# Contact
 
 🌐 https://byteundhandwerk.de
 
