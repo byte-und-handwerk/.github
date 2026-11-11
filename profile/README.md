@@ -23,7 +23,7 @@ Die Preise stehen auf der Seite [Kosten und Festpreise](https://byteundhandwerk.
 
 ## Öffentliche Repositories
 
-- **[TreueBiss](https://github.com/byte-und-handwerk/TreueBiss):** White-Label-Lösung für digitale Kundenbindung im Lebensmittelhandwerk mit einfacher Stempel- und Gutscheinlogik. [Produktseite](https://byteundhandwerk.de/treuebiss)
+- **[TreueBiss](https://github.com/byte-und-handwerk/TreueBiss):** White-Label-Lösung für digitale Kundenbindung im Lebensmittelhandwerk mit einfacher Stempel- und Gutscheinlogik. Wird gerade überarbeitet. [Stand](https://byteundhandwerk.de/treuebiss)
 - **[RevierHege-Website](https://github.com/byte-und-handwerk/RevierHege-Website):** Website von RevierHege, einer mobilen App zur gemeinsamen Verwaltung von Kirrungen. [Fallstudie](https://byteundhandwerk.de/referenz-revierhege)
 
 ## Kontakt
