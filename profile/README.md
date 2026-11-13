@@ -21,9 +21,8 @@ Hinter byte & Handwerk stehe ich, [Dominik Baki](https://github.com/Code-Noob82)
 
 Die Preise stehen auf der Seite [Kosten und Festpreise](https://byteundhandwerk.de/app-entwicklung-kosten).
 
-## Öffentliche Repositories
+## Öffentliches Repository
 
-- **[TreueBiss](https://github.com/byte-und-handwerk/TreueBiss):** White-Label-Lösung für digitale Kundenbindung im Lebensmittelhandwerk mit einfacher Stempel- und Gutscheinlogik. Wird gerade überarbeitet. [Stand](https://byteundhandwerk.de/treuebiss)
 - **[RevierHege-Website](https://github.com/byte-und-handwerk/RevierHege-Website):** Website von RevierHege, einer mobilen App zur gemeinsamen Verwaltung von Kirrungen. [Fallstudie](https://byteundhandwerk.de/referenz-revierhege)
 
 ## Kontakt
